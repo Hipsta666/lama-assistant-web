@@ -38,7 +38,7 @@ h1 {
 .MuiOutlinedInput-root,
 .Role_name__3j6hS,
 [role='button'],
-input[type='number'], 
+input[type='number'],
 input[type='password'],
 input[type='select'],
 input[type='text'],
@@ -882,4 +882,10 @@ legend.css-1z7n62 > span {
 .MuiBox-root.css-18uq9l1 > button > span {
 	font-size: 25px;
 	margin: 0;
+}
+/* .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+	height: 47px;
+} */
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1v4ccyo {
+	height: 47px;
 }
